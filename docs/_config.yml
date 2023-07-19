@@ -1,5 +1,0 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-title: W3.css Template Generator
-description: Use this tool to quickly create beautiful websites using W3.css

@@ -3,4 +3,4 @@ This tool will help you to quickly put together beautiful web templates made wit
 # Features
 * It includes the open source Remix Icon System (Find icons at https://remixicon.com/)
 * Responsive to all screen sizes.
-* Easily edit your theme colors or individual ones.
+* Easily edit colors with color words.
